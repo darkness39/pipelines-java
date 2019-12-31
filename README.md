@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/florenzodominguez0650/florenzodominguez/_apis/build/status/darkness39.pipelines-java?branchName=master)](https://dev.azure.com/florenzodominguez0650/florenzodominguez/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
